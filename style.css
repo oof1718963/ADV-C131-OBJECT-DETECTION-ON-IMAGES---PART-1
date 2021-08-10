@@ -1,0 +1,28 @@
+body {
+    
+}
+.red {
+    background-color: white;
+    color: black;
+    border: 2px solid #BE1220; /* Green */
+  }
+  .orange {
+    background-color: white;
+    color: black;
+    border: 2px solid #FF8D1A; /* Green */
+  }
+  .yellow {
+    background-color: white;
+    color: black;
+    border: 2px solid #F5BA2B; /* Green */
+  }
+  .green {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CFFAC; /* Green */
+  }
+  .blue {
+    background-color: white;
+    color: black;
+    border: 2px solid #8AB4F8; /* Green */
+  }
